@@ -38,13 +38,13 @@ The UI of this app takes in an input text where an user enters a word and based 
 
 References
 ==============================================================
-. The application is hosted at 
+- The application is hosted at 
 https://pratheebha.shinyapps.io/CapstoneProject/
 
-. The code files for the application and related scripts can be found at the https://github.com/pratheebha/CapstoneProject
+- The code files for the application and related scripts can be found at the https://github.com/pratheebha/Data-Science-Capstone-Project
 
-. The slides for presentation is posted at 
-
+- The slides for presentation is posted at 
+ http://rpubs.com/prathi/175364
  
   
   
